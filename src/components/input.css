@@ -1,0 +1,12 @@
+.input-container{
+  display: flex;
+  flex-direction: row;
+  background: #D6E4E5;
+  padding: 10px;
+  margin: 10px;
+  width: 80vw;
+  justify-content: flex-start;
+}
+.input-container >input {
+  flex-grow: 100%;
+}

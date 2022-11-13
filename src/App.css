@@ -16,3 +16,6 @@
   color: black;
   }
   
+  .layer-control-btn {
+    display: flex;
+  }
